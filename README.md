@@ -53,9 +53,8 @@ First, make sure your dump of the game is clean and supported by Dusklight. You 
 
 # Building
 
-If you'd like to build Dusklight from source, please read the [build instructions](docs/building.md).
-
-Pull requests are welcomed! Note that we do not accept contributions that are primarily AI-generated and will close your PR if we suspect as much. Please also see the [code conventions](docs/code-conventions.md).
+If you'd like to build the Spaceworld 2000 recreation from source, please read the [build instructions](docs/building.md).
+Please also see the [code conventions](docs/code-conventions.md).
 
 # Credits
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="res/logo.png" alt="Logo" width="640">
+  <img width="640" alt="image" src="https://github.com/user-attachments/assets/d27aff7b-6342-493f-ae36-746126e593f5" />
 
   <p align="center">
     <a href="https://twilitrealm.dev">Official Website</a>
